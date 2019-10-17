@@ -1,10 +1,10 @@
-//Prioritizer 1
+//Prioritizer 1 by Apoorva Manda
 import java.lang.reflect.Array;
 import java.util.Comparator;
 
 class GlobalVals<T>
 {
-public int maxSize = 10;
+public int maxSize = 50;
 public T[] main_arr;
 public T[] temp_arr;
 public boolean phase = true;
